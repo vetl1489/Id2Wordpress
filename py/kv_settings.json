@@ -1,0 +1,16 @@
+{
+    "version": "1.0.2",
+    "my_html": "all.html",
+    "my_dir": "WEB",
+    "type_file": ".html",
+    "default_name": "Без заголовка",
+    "base_path": ".",
+    "table": "Articles.xlsx",
+    "my_web_site": "domen",
+    "login": "login",
+    "password": "pass",
+    "type_article": "*.html",
+    "tmp_file": "kvsend.tmp",
+    "type_img": ["*.jpg", "*.png", "*.jpeg"],
+    "default_category": "Без рубрики"
+}

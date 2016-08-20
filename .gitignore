@@ -1,1 +1,5 @@
 /kv_settings.json
+/js/.idea/
+/js/*.map
+/py/kv_settings.json
+.gitignore
